@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="692beb2c-8ffa-49a1-9240-ebdf47564ec9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_28" />
+  <component name="FavoritesManager">
+    <favorites_list name="todo_prototype2_app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fqqGaFh8iYCfMmsw0I7jJT3ugd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="692beb2c-8ffa-49a1-9240-ebdf47564ec9" name="Default Changelist" comment="" />
+      <created>1596955876109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596955876109</updated>
+    </task>
+    <task id="LOCAL-00001" summary="todo appプロトタイプ２">
+      <created>1599745023192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599745023192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="todo appプロトタイプ２" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo appプロトタイプ２" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597404351214">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="217" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.795@0.23.1440.795" timestamp="1597404351214" />
+    <state x="225" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599746407272">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="225" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.798@0.23.1440.798" timestamp="1599746407272" />
+    <state x="275" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598456522727">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="275" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.804@0.23.1440.804" timestamp="1598456522727" />
+    <state x="34" y="25" key="CommitChangelistDialog2" timestamp="1599745022799">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="34" y="25" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1599745022799" />
+    <state x="106" y="124" width="863" height="595" key="DiffContextDialog" timestamp="1599746525434">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="106" y="124" width="863" height="595" key="DiffContextDialog/0.23.1440.798@0.23.1440.798" timestamp="1599746525434" />
+    <state width="1021" height="158" key="GridCell.Tab.0.bottom" timestamp="1599746949688">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="840" height="242" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1596956655396" />
+    <state width="1021" height="158" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1599746949688" />
+    <state width="1021" height="250" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1599473420276" />
+    <state width="1021" height="250" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1599491549981" />
+    <state width="1021" height="250" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1599563292648" />
+    <state width="1021" height="250" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1599663968028" />
+    <state width="1021" height="158" key="GridCell.Tab.0.center" timestamp="1599746949687">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="840" height="242" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1596956655395" />
+    <state width="1021" height="158" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1599746949687" />
+    <state width="1021" height="250" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1599473420275" />
+    <state width="1021" height="250" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1599491549980" />
+    <state width="1021" height="250" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1599563292648" />
+    <state width="1021" height="250" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1599663968027" />
+    <state width="1021" height="158" key="GridCell.Tab.0.left" timestamp="1599746949687">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="840" height="242" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1596956655395" />
+    <state width="1021" height="158" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1599746949687" />
+    <state width="1021" height="250" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1599473420275" />
+    <state width="1021" height="250" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1599491549980" />
+    <state width="1021" height="250" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1599563292647" />
+    <state width="1021" height="250" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1599663968027" />
+    <state width="1021" height="158" key="GridCell.Tab.0.right" timestamp="1599746949688">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="840" height="242" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1596956655396" />
+    <state width="1021" height="158" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1599746949688" />
+    <state width="1021" height="250" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1599473420276" />
+    <state width="1021" height="250" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599491549981" />
+    <state width="1021" height="250" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599563292648" />
+    <state width="1021" height="250" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599663968028" />
+    <state x="39" y="60" key="SettingsEditor" timestamp="1598073938122">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="39" y="60" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1598073938122" />
+    <state x="138" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1599744705027">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="138" y="246" key="com.intellij.ide.util.TipDialog/0.23.1440.795@0.23.1440.795" timestamp="1596955911616" />
+    <state x="138" y="248" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1599744705027" />
+    <state x="138" y="248" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1599473397827" />
+    <state x="138" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1598456135884" />
+    <state x="138" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1599561553763" />
+    <state x="106" y="124" width="863" height="595" key="dock-window-1" timestamp="1598373465826">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="106" y="124" width="863" height="595" key="dock-window-1/0.23.1440.806@0.23.1440.806" timestamp="1598373465826" />
+    <state x="240" y="293" key="git4idea.rebase.GitRebaseDialog" timestamp="1599746931066">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="240" y="293" key="git4idea.rebase.GitRebaseDialog/0.23.1440.798@0.23.1440.798" timestamp="1599746931066" />
+    <state x="133" y="144" width="670" height="688" key="search.everywhere.popup" timestamp="1599662478538">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="133" y="142" width="670" height="676" key="search.everywhere.popup/0.23.1440.795@0.23.1440.795" timestamp="1596956159979" />
+    <state x="133" y="144" width="670" height="688" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1599662478538" />
+  </component>
+</project>
